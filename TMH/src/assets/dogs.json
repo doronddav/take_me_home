@@ -1,0 +1,93 @@
+{
+  "dogs": [
+    {
+    "id":1,
+      "name": "Dog 1",
+      "img": "https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 3,
+      "type": "Bulldog",
+      "description": "This is a friendly and energetic Bulldog."
+    },
+    {
+            "id":2,
+
+      "name": "Dog 2",
+      "img": "https://images.pexels.com/photos/895259/pexels-photo-895259.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 2,
+      "type": "Labrador Retriever",
+      "description": "Meet this playful and loyal Labrador Retriever."
+    },
+    {
+            "id":3,
+
+      "name": "Dog 3",
+      "img": "https://images.pexels.com/photos/3658120/pexels-photo-3658120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 4,
+      "type": "German Shepherd",
+      "description": "A smart and protective German Shepherd in need of a loving home."
+    },
+    {
+            "id":4,
+
+      "name": "Dog 4",
+      "img": "https://images.pexels.com/photos/4587971/pexels-photo-4587971.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "age": 1,
+      "type": "Golden Retriever",
+      "description": "An adorable and friendly Golden Retriever looking for a forever family."
+    },
+    {
+            "id":5,
+
+      "name": "Dog 5",
+      "img": "https://images.pexels.com/photos/4587998/pexels-photo-4587998.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "age": 5,
+      "type": "Poodle",
+      "description": "This intelligent and elegant Poodle needs a caring owner."
+    },
+    {
+            "id":6,
+
+      "name": "Dog 6",
+      "img": "https://images.pexels.com/photos/4587987/pexels-photo-4587987.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "age": 2,
+      "type": "Beagle",
+      "description": "A curious and loving Beagle with a charming personality."
+    },
+    {
+            "id":7,
+
+      "name": "Dog 7",
+      "img": "https://images.pexels.com/photos/1933464/pexels-photo-1933464.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "age": 3,
+      "type": "Siberian Husky",
+      "description": "An energetic and beautiful Siberian Husky ready to join an active family."
+    },
+    {
+            "id":8,
+
+      "name": "Dog 8",
+      "img": "https://example.com/dog8.jpg",
+      "age": 1,
+      "type": "Boxer",
+      "description": "A playful and affectionate Boxer looking for a loving home."
+    },
+    {
+            "id":9,
+
+      "name": "Dog 9",
+      "img": "https://images.pexels.com/photos/3196887/pexels-photo-3196887.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "age": 4,
+      "type": "Border Collie",
+      "description": "A highly intelligent and agile Border Collie in need of an active owner."
+    },
+    {
+            "id":10,
+
+      "name": "Dog 10",
+      "img": "https://images.pexels.com/photos/5122188/pexels-photo-5122188.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "age": 2,
+      "type": "Dalmatian",
+      "description": "This spotted Dalmatian is full of energy and ready for adventures."
+    }
+  ]
+}
